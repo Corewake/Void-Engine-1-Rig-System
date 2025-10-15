@@ -1,8 +1,5 @@
 Void Engine V1 Documentation
 
-Engine Version: Void Engine V1
-Unity Version: 6.0
-Author: Corewake Studios
 Last Updated: October 2025
 
 Overview
